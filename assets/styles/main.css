@@ -1,0 +1,12 @@
+
+
+
+#hero{
+    background-image: url('../images/hero1.jpeg');
+    background-color: rgba(0, 0, 0, 0.875);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+}
