@@ -10,3 +10,10 @@
     background-attachment: fixed;
     background-blend-mode: overlay;
 }
+
+#hint{
+    background-image: url(../images/hero3.webp);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+}
